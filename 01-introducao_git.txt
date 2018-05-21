@@ -23,3 +23,9 @@ Exemplo de hooks:
 
 origin -> remote
 master -> local
+
+# Merge
+Tipos:
+	+ Fast-Forwarding - ambas as branchs tem um caminho linear comum, isto é, a branch de origem da branch novo nao sobre nenhuma auteracao
+	+ Three-Way-Merge - quando as duas branchs nao tiveram comits, ou seja, a branch de origim sofreu auteracao durante o desenvolvimento da branch de trabalho atual [recursive stratege]
+	+ Conflited Merge - situacao que acontece conflito, entao ele pede para o desenvolvedor resolver o conflito. 
