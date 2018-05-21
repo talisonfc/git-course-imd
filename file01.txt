@@ -1,0 +1,3 @@
+file 01 para testar status
+new line 01
+new line 02
