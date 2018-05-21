@@ -1,3 +1,3 @@
 file 2 para testar comandos do git
-quero que aconteca444 um conflito
+quero que aconteca um conflito
 testar como branchs
