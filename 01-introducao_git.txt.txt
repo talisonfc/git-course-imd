@@ -1,0 +1,21 @@
+Introdução ao git
+
+work directory
+staged
+rpository
+
+untracked
+
+# Configurar o ambiente
+
+$ git config --global user.name "talison"
+$ git config --global user.email tfccomputation@gmail.com
+
+configurar o ambiente é importante para que cada commit seja identificado. Isso é importante para tarefa de rastreabilidade e statistica de producao. Assim, por meio dos dados do desenvolvedor configurado, é possivel ver a producao de cada desenvolvedor.
+
+todo commit carrega os dados de configuracao do usuario
+
+
+Um recurso util sao os hooks do git. Se trata de eventos que pode ser programado dentro do git. Podemos associar uma rotina com comandos do git.
+Exemplo de hooks:
+	+ Depois que um commit for dados, verificar se existe uma tarefa cadastrada para ser commitada
