@@ -1,2 +1,3 @@
 file 2 para testar comandos do git
-teste como branchs
+quero que aconteca um conflito
+testar como branchs
